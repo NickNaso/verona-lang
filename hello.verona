@@ -1,0 +1,10 @@
+
+
+class Main
+{
+  main()
+  {
+     Builtin.print("Hello World!")
+  }
+}
+
