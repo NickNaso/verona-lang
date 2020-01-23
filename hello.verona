@@ -1,10 +1,9 @@
 
-
 class Main
 {
   main()
-  {
-    Builtin.print("Hello World!")
+  { 
+    Builtin.print("Hello World!");
   }
 }
 
