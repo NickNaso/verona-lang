@@ -1,0 +1,16 @@
+
+class Int64 {
+  value: U64;
+}
+
+
+class Main
+{
+  main()
+  { 
+    var n = new Int64;
+    n.value = 64;
+    Builtin.print1("{}\n", n.value);
+  }
+}
+
